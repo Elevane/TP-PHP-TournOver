@@ -1,6 +1,2 @@
-Ceci est le dossier contenant les fichiers css, php , js et csv du projet Tournover réalisé par la société BSB-WEB.
+Ceci est le dossier contenant les fichiers css, php , js et csv du projet Tournover rÃ©alisÃ© par la sociÃ©tÃ© BSB-WEB.
 Pour toutes questions relatives au projet :
-
-AUBRY Bastien
-0647945759
-pma.bastien.aubry@gmail.com
